@@ -5,5 +5,4 @@
  
  Isso foi legal.
  
- Gostei muito
- teste da linha contínua.
+ Gostei muito.
